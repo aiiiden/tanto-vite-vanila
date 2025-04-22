@@ -17,4 +17,10 @@
     npm run build
    ```
 
-Then open the `dist` folder.
+Then open the `dist` folder. -> This is the folder that contains the built application.
+
+4. **Run the Application**:
+
+   ```bash
+   npm run preview
+   ```
