@@ -16,3 +16,5 @@
    ```bash
     npm run build
    ```
+
+Then open the `dist` folder.
